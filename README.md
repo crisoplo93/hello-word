@@ -1,2 +1,6 @@
 # hello-word
-Just another repository
+
+Este fue el ejercicio uno
+Probando...
+
+
